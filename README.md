@@ -2,7 +2,6 @@
 Sebuah aplikasi untuk membuat fitur login
 
 Alur Fitur Login:
-
-1.Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+1. Memasukkan Email dan Password
+2. Memvalidasi Masukan
+3. Menampilkan Halaman Home
